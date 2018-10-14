@@ -5,16 +5,16 @@ Ping me on my mail [thesahilmalhotra@gmail.com](mailto:thesahilmalhotra@gmail.co
 
 ----
 
-### [1. Introduction to Algorithms](https://github.com/sahil-malhotra/Competitive-Programming-List/tree/master/1.%20Introduction%20to%20Algorithms)
+### [1. Introduction to Algorithms](1.%20Introduction%20to%20Algorithms)
 These problems are purely implementational with a little bit of observation. Start with these to get the hang of writing problem solving codes. 
 
-### [2. Recursion and Sorting](https://github.com/sahil-malhotra/Competitive-Programming-List/tree/master/2.%20Recursion%20and%20Sorting)
+### [2. Recursion and Sorting](2.%20Recursion%20and%20Sorting)
 Before attempting these problems dive into concepts like recursion and get acquainted with some sorting techniques like quicksort and mergesort. 
 
-### [3. Binary Search](https://github.com/sahil-malhotra/Competitive-Programming-List/tree/master/3.%20Binary%20Search)
+### [3. Binary Search](3.%20Binary%20Search)
 Read this [Top Coder](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/) tutorial on Binary Search and then try to solve the problems in this section.  
 
-### [4. Dynamic Programming](https://github.com/sahil-malhotra/Competitive-Programming-List/tree/master/4.%20Dynamic%20Programming)
+### [4. Dynamic Programming](4.%20Dynamic%20Programming)
 Refer to some training material from [IARCS](http://www.iarcs.org.in/inoi/online-study-material/topics/dp-tiling.php). Also read this insightful [Quora Answer by Michal Danilák](https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-programming-DP-besides-the-TopCoder-tutorial/answer/Michal-Danil%C3%A1k) and then head onto this section to solve some dp problems. 
 
 
