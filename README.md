@@ -21,7 +21,7 @@ Refer to some training material from [IARCS](http://www.iarcs.org.in/inoi/online
 
 ## Bonus
 
----
 
-### [4. Dynamic Programming with Bitmasks](4.%20Dynamic%20Programming%20with%20Bitmasks)
+
+### [5. Dynamic Programming with Bitmasks](4.%20Dynamic%20Programming%20with%20Bitmasks)
 Watch this video for DP + Bitmasks from [CodingBlocks YouTube Channel](https://www.youtube.com/watch?v=8bdXzqabYls)(in Hinglish). Or refer to this [HackerEarth Tutorial](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/) and then head onto this section to solve some dp+bitmasks problems.
