@@ -17,4 +17,11 @@ Read this [Top Coder](https://www.topcoder.com/community/competitive-programming
 ### [4. Dynamic Programming](4.%20Dynamic%20Programming)
 Refer to some training material from [IARCS](http://www.iarcs.org.in/inoi/online-study-material/topics/dp-tiling.php). Also read this insightful [Quora Answer by Michal Danilák](https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-programming-DP-besides-the-TopCoder-tutorial/answer/Michal-Danil%C3%A1k) and then head onto this section to solve some dp problems. 
 
+---
 
+## Bonus
+
+---
+
+### [4. Dynamic Programming with Bitmasks](4.%20Dynamic%20Programming%20with%20Bitmasks)
+Watch this video for DP + Bitmasks from [CodingBlocks YouTube Channel](https://www.youtube.com/watch?v=8bdXzqabYls)(in Hinglish). Or refer to this [HackerEarth Tutorial](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/) and then head onto this section to solve some dp+bitmasks problems.
