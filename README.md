@@ -1,5 +1,5 @@
 # Competitive Programming List
-I'll be adding codes to some of the must-practice CP problems. I'll try to categorise them as much as possible and arrange problems in increasing order of difficulty for a particular category. 
+I'll be adding codes to some of the must-practice CP problems thereby ensuring a good learning curve with lesser number of problems. I'll try to categorise them as much as possible and arrange problems in increasing order of difficulty for a particular category. 
 
 Ping me on my mail [thesahilmalhotra@gmail.com](mailto:thesahilmalhotra@gmail.com) if you have some suggestions or want to add problems or open a pull request directly. Please specify the source and category of the problem. 
 
